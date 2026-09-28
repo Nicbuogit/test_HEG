@@ -43,3 +43,5 @@ Tram 15, arrêt « Acacias » ; bus 11, arrêt « Bibliothèque ». Un parking �
 Test PUSH
 
 Test PULL
+
+Test COMMIT
